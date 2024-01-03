@@ -1,4 +1,4 @@
-# This project is unmaintained and contains many known bugs which WILL corrupt projects. Do not use.
+
 
 Scratch 3 Project minifier.
 
@@ -17,4 +17,4 @@ sb3o test.sb3 -o output.sb3
 
 ## Motivation
 
-Not sure
+Not sure.
